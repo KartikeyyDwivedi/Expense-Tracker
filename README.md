@@ -3,7 +3,7 @@
 Author: Kartikey Dwivedi 
 Email: Kartikeydwivedi55@gmail.com
 
-This Expense Tracker website was developed as part of an internship task at CodeAlpha. It allows users to track their expenses efficiently. The project utilizes HTML, CSS, and JavaScript.
+This Expense Tracker website was developed . It allows users to track their expenses efficiently. The project utilizes HTML, CSS, and JavaScript.
 
 ## Technologies Used
 - HTML
